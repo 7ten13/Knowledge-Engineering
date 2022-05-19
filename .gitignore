@@ -67,6 +67,9 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+WebFocusedCrawlWorkV001/adafruit-product/
+WebFocusedCrawlWorkV001/main-companies/
+
 
 # Sphinx documentation
 docs/_build/
